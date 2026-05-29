@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <app>
+        <nom>StaffManager</nom>
+        <version>1.0</version>
+        <langue>fr</langue>
+        <conges_max_par_an>30</conges_max_par_an>
+    </app>
+    <database>
+        <host>localhost</host>
+        <name>staffmanager</name>
+        <username>root</username>
+        <password></password>
+    </database>
+</config>
